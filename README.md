@@ -6,8 +6,6 @@
 - 🔭 I’m currently in career transition
 - 💻 Web Developer in progress
 
-> Un cuban
-
 <!--
 **DanySGlez/DanySGlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
