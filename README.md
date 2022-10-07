@@ -4,7 +4,7 @@
 
 
 🔭 I’m currently in career transition <br>
-💻 Web Developer in progress /HTML /CSS /JS 
+💻 Web Developer in progress /HTML /CSS /JS - GIT /GITHUB
 
 <!--
 Here are some ideas to get you started:
