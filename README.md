@@ -6,16 +6,7 @@
 🔭 I’m currently in career transition <br>
 💻 Web Developer in progress /HTML /CSS /JS - GIT /GITHUB
 
-<!--
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 In search of continuing personal and professional overcoming.
 
 <div>
   <a href="https://github.com/DanySGlez">
