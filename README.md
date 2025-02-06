@@ -29,3 +29,5 @@
   <a href="https://twitter.com/dany_sglez" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="mailto:danysalomon891223@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<a href="https://app.rocketseat.com.br/me/danysglez"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=danysglez&type=card" width="280" alt="Daniel Alejandro Salomón González's Rocket ID"/></a>
